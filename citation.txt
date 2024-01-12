@@ -1,0 +1,9 @@
+@article{REPO096,
+    author = "Ferraro Petrillo, Umberto and Palini, Francesco and Cattaneo, Giuseppe and Giancarlo, Raffaele",
+    journal = "Bioinformatics",
+    number = "12",
+    pages = "1658--1665",
+    title = "{Alignment-Free Genomic Analysis via a Big Data Spark Platform}",
+    volume = "37",
+    year = "2021"
+}
